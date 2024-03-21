@@ -10,4 +10,8 @@ class HexarchitectureServiceApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void name() {
+
+	}
 }
